@@ -1,0 +1,8 @@
+This is a simple API created using flask in Python.
+The purpose of this API is to search up a restaurant using its name, cuisine type or zipcode
+
+To use this Project, you need to have flask.
+pip install flask
+
+download curl for a better experience
+ 
